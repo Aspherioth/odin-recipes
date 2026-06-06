@@ -37,4 +37,4 @@ odin-recipes/
 
 ## Notes
 
-Styling is intentionally absent. The focus at this stage is on correct and meaningful HTML structure.
+Styling is intentionally (mostly) absent. The focus at this stage is on correct and meaningful HTML structure.
